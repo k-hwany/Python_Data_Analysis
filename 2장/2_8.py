@@ -22,10 +22,11 @@ print('join() 함수를 이용하여 문자열 합치기')
 result = '#'.join(mylist)
 
 print('결과 : ', result)
+print('\n\n')
 
 
 # while 문 사용  # 커피 판매점
-
+print('### while문 사용 커피 판매점 ###')
 coffee = 3
 price = 2000
 
